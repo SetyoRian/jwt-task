@@ -5,10 +5,10 @@
 
 - Tugas:
 - Buatlah 1 buah server dengan ketentuan:
--- Menggunakan json file sebagai sumber datanya    
--- Mempunyai route untuk POST dan menghasilkan token JWT
--- Mempunyai route untuk GET data menggunakan JWT untuk otorisasi token sebelum meresponse data ke client
--- Gunakan POSTMAN sebagai client untuk mengetes API yang dibuat
+- Menggunakan json file sebagai sumber datanya    
+- Mempunyai route untuk POST dan menghasilkan token JWT
+- Mempunyai route untuk GET data menggunakan JWT untuk otorisasi token sebelum meresponse data ke client
+- Gunakan POSTMAN sebagai client untuk mengetes API yang dibuat
 
 ## Features
 
