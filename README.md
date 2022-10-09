@@ -3,12 +3,12 @@
 
 [![N|Solid](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![N|Solid](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
 
-Tugas:
-Buatlah 1 buah server dengan ketentuan:
-    - Menggunakan json file sebagai sumber datanya
-    - Mempunyai route untuk POST dan menghasilkan token JWT
-    - Mempunyai route untuk GET data menggunakan JWT untuk otorisasi token sebelum meresponse data ke client
-    - Gunakan POSTMAN sebagai client untuk mengetes API yang dibuat
+- Tugas:
+- Buatlah 1 buah server dengan ketentuan:
+-- Menggunakan json file sebagai sumber datanya    
+-- Mempunyai route untuk POST dan menghasilkan token JWT
+-- Mempunyai route untuk GET data menggunakan JWT untuk otorisasi token sebelum meresponse data ke client
+-- Gunakan POSTMAN sebagai client untuk mengetes API yang dibuat
 
 ## Features
 
